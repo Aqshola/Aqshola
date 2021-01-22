@@ -1,5 +1,3 @@
-<h2> Hey there! 👋, I'm Aqshola.</h2>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
