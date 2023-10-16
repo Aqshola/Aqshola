@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next.JS, Tailwind CSS and React Native**
 
-- 👨‍💻 All of my projects are available at [shola.me](shola.me)
+- 👨‍💻 All of my projects are available at [shola.vercel.app](shola.vercel.app)
 
 - 📫 How to reach me **aqsholafid2@gmail.com**
 
