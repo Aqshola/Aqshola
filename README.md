@@ -17,7 +17,7 @@
 👋 Yahallo. My name is Aqshol Afid, but you can call me ***"Shola"***. I'm Software Engineer who specialized in *Frontend*  but also possess ability to code in *Fullstack*. Very passionate about modern *mobile and web technology* while taking into consideration to be SRE *Site Reliability Engineer* and wish to be *Solution Architect*. 
 
 ## 💼 Career
-I'm working full-time as a ***Software Engineer***. and Have 2+ YoE in professional works and about ~5+ YoE in Learning about Software Engineering (started in 2019).
+I'm working full-time as a ***Software Engineer***. and Have 3+ YoE in professional works and about ~5+ YoE in Learning about Software Engineering (started in 2019).
 
 ## 🔍 Currently Learning:
 - Golang, Rust, DevOps, SysAdmin.
