@@ -25,8 +25,8 @@ I'm working full-time as a ***Software Engineer***. and Have 3+ YoE in professio
 
 ## 🚀 How to reach me:
 - Web: [shola.pro](https://shola.pro)
-- Email: [aqshola.afid@gmail.com](mailto:aqshola.afid@gmail.com)
+- Email: [work@shola.pro](mailto:work@shola.pro)
 - LinkedIn: [aqshola](https://www.linkedin.com/in/aqshola)
 ---
 
-© 2024 — Aqshola
+© 2026 — Aqshola
